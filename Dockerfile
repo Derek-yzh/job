@@ -1,1 +1,1 @@
-From gcr.io/distroless/java
+FROM gcr.io/distroless/java
